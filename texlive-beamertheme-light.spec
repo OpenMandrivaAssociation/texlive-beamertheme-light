@@ -1,6 +1,6 @@
 Name:		texlive-beamertheme-light
-Version:	49867
-Release:	2
+Version:	72933
+Release:	1
 Summary:	A minimal beamer style
 Group:		Publishing
 URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/beamertheme-light
